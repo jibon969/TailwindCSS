@@ -10,6 +10,14 @@
   "author": "Learn with Sumit",
   "license": "ISC",
   "devDependencies": {
-    "tailwindcss": "^2.2.17"
-  }
+    "tailwindcss": "^2.2.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jibon969/TailwindCSS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jibon969/TailwindCSS/issues"
+  },
+  "homepage": "https://github.com/jibon969/TailwindCSS#readme"
 }
