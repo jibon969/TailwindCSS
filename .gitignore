@@ -1,0 +1,16 @@
+node_modules
+.prettierrc
+.DS_store
+typer
+
+*.so
+.idea
+*.idea
+.idea/workspace.xml
+.vscode
+.bash_history
+.PyCharm2018.
+env/
+venv/
+
+Zip/belasea.docx
